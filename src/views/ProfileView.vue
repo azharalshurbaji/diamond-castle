@@ -8,7 +8,7 @@
         <v-col
           cols="12"
           lg="2"
-          sm="12"
+          sm="6"
           align="center"
         >
           <v-img
